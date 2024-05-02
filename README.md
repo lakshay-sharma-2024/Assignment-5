@@ -2,9 +2,6 @@
 
 
 
-1. **NormalEmployee**: Represents a regular employee.
-2. **BonusEmployee**: Represents an employee eligible for a bonus.
-
 In the `main` method:
 
 - An instance of `NormalEmployee` is created and its details are obtained using the `getEmployeeDetails` method. Then, the salary is calculated using the `salaryCalculation` method.
